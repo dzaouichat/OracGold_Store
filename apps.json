@@ -1,9 +1,9 @@
 [
   {
-    "name": "My First App",
+    "name": "OrcaGold Connect",
     "version": "1.0",
-    "app_icon": "https://github.com/dzaouichat/OracGold_Store/releases/download/v1/icon.png",
-    "url": "https://github.com/dzaouichat/OracGold_Store/releases/download/v1/MyFirstApp.apk",
+    "app_icon": "https://github.com/dzaouichat/OracGold_Store/blob/main/file_0000000078ec82109f1579889e5a5046.png",
+    "url": "https://github.com/dzaouichat/OracGold_Store/releases/download/V1/OrcaGold-Connect-v1.0.0-release.apk",
     "description": "Replace this entry with your own apps"
   }
 ]
